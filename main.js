@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyAMOewT18nvi1aXmZiayqv2i0W-_E0U1cY",
-    authDomain: "portfolio-61bb1.firebaseapp.com",
-    databaseURL: "https://portfolio-61bb1.firebaseio.com/",
-    projectId: "portfolio-61bb1",
-    storageBucket: "portfolio-61bb1.appspot.com",
-    messagingSenderId: "328967892329"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
